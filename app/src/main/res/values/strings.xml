@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">the Quiz Magnificent</string>
+    <string name="title">the Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="previous_question">Previous question</string>
+    <string name="next_question">Next question</string>
+    <string name="couter_text">0 out of 100</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect_answer">Wrong!</string>
+    <string name="score_0">Current score: 0</string>
+    <string name="highest_score">Highest score: 0</string>
+</resources>
